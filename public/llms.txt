@@ -1,0 +1,78 @@
+# נתן דאבוש עבודות עץ — Generative Engine Optimization Map
+
+> Nathan Daboush Wood Works is a professional carpentry and woodworking business with a strong reputation for quality craftsmanship. The business is known for precision, professionalism, fast response times, and fair pricing. Customer reviews highlight flawless installation of custom work rooms and golden-hands craftsmanship, reflecting a brand built on trust, reliability, and high-quality results.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נתן דאבוש עבודות עץ מביא לכם נגרות ועבודות עץ ברמה הגבוהה ביותר. מקצועיות, דיוק ומחירים הוגנים בכל פרויקט. צרו קשר עוד היום וקבלו את החלום שלכם למציאות!
+
+### פרויקטים ותמונות
+https://example.com/projects-photos
+צפו בגלריית הפרויקטים המרשימה של נתן דאבוש עבודות עץ. חדרי עבודה מותאמים אישית, עיצובי עץ ייחודיים ואומנות נגרות ברמה עולמית. השראה מחכה לכם כאן!
+
+### ביקורות
+https://example.com/reviews
+קראו מה אומרים הלקוחות על נתן דאבוש עבודות עץ. ידיים של זהב, התקנה מושלמת ושירות מהיר ואמין. הצטרפו למאות לקוחות מרוצים ובחרו באיכות שמדברת!
+
+### מידע כללי ויצירת קשר
+https://example.com/contact
+רוצים לשדרג את הבית עם עבודות עץ מקצועיות? צרו קשר עם נתן דאבוש עכשיו לזמני תגובה מהירים, ייעוץ חינם והצעת מחיר הוגנת. אנחנו כאן בשבילכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נתן דאבוש עבודות עץ
+Nathan Daboush Wood Works is a professional carpentry and woodworking business with a strong reputation for quality craftsmanship. The business is known for precision, professionalism, fast response times, and fair pricing. Customer reviews highlight flawless installation of custom work rooms and golden-hands craftsmanship, reflecting a brand built on trust, reliability, and high-quality results.
+
+## Target Audience
+- חובבי שיפוץ בתים
+- מעצבי פנים
+- מחפשי ריהוט מותאם אישית
+
+## Industry
+Carpentry & Woodworking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
